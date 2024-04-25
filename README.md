@@ -1,5 +1,5 @@
 ### Hi there 👋
-![IMG_20231208_064804 (1)](https://github.com/sohaibelahigithub/sohaibelahigithub/assets/164201408/5d8ac4b7-32fb-45b7-bc91-e95a258063fc)
+
 
 <!--
 **sohaibelahigithub/sohaibelahigithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
